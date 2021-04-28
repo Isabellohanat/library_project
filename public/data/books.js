@@ -6,7 +6,7 @@ const books = [
     authorId: 8,
     borrows: [
       {
-       id: "5f446f2e2cfa3e1d234679b9",
+        id: "5f446f2e2cfa3e1d234679b9",
         returned: false,
       },
       {
@@ -21,7 +21,7 @@ const books = [
         id: "5f446f2e6059326d9feb9a68",
         returned: true,
       },
-      { 
+      {
         id: "5f446f2ede05a0b1e3394d8b",
         returned: true,
       },
@@ -209,7 +209,7 @@ const books = [
         id: "5f446f2ef2ab5f5a9f60c4f2",
         returned: true,
       },
-      {  
+      {
         id: "5f446f2e136866e4fe60c893",
         returned: true,
       },
