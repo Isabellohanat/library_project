@@ -1,7 +1,7 @@
 const accounts = [
   {
     id: "5f446f2ecfaf0310387c9603",
-    picture: "https://api.adorable.io/avatars/75/esther.tucker@zillacon.me",
+    picture: "https://img.icons8.com/color/48/000000/brave.png",
     age: 25,
     name: {
       first: "Esther",
@@ -37,7 +37,7 @@ const accounts = [
   },
   {
     id: "5f446f2e637138095dcc3db2",
-    picture: "https://api.adorable.io/avatars/75/allen.bartlett@poshome.co.uk",
+    picture: "https://img.icons8.com/color/48/000000/popeye.png",
     age: 30,
     name: {
       first: "Allen",
@@ -403,7 +403,7 @@ const accounts = [
   },
   {
     id: "5f446f2ed9aac23c0340aab2",
-    picture: "https://api.adorable.io/avatars/75/kirby.alston@marqet.net",
+    picture: "https://img.icons8.com/color/48/000000/kuroo.png",
     age: 30,
     name: {
       first: "Kirby",
@@ -488,7 +488,7 @@ const accounts = [
   },
   {
     id: "5f446f2e6059326d9feb9a68",
-    picture: "https://api.adorable.io/avatars/75/gayle.banks@marketoid.org",
+    picture: "https://img.icons8.com/color/48/000000/rick-sanchez.png",
     age: 36,
     name: {
       first: "Gayle",
@@ -646,7 +646,7 @@ const accounts = [
   },
   {
     id: "5f446f2ead0070f44676f2f6",
-    picture: "https://api.adorable.io/avatars/75/toni.ball@macronaut.biz",
+    picture: "https://img.icons8.com/color/48/000000/ninja-turtle.png",
     age: 24,
     name: {
       first: "Toni",
